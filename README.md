@@ -1,2 +1,0 @@
-# kody
-kody źródłowe programów
